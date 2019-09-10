@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+.mainContainer {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.bio {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.projectsWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.skillsWrapper {
+  display:flex;
+  justify-content: center;
+}
+
